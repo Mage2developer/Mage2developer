@@ -1,8 +1,10 @@
 # 🚀 Mage2Developer
 
-### 💼 eCommerce Development Team | Magento • Shopify • Full-Stack Experts
+### 💼 Magento • Shopify • Laravel • React • Hyvä • DevOps Experts
 
-We are a **Magento-focused development team (2 senior developers)** with **10+ years of experience** delivering scalable, high-performance eCommerce solutions for global clients.
+We are a **senior development team** helping businesses build, optimize, and scale **eCommerce platforms and full-stack applications**.
+
+Our expertise spans **Magento, Shopify, Laravel, React, Hyvä themes, and DevOps**, enabling us to deliver complete, high-performance solutions from backend to frontend to infrastructure.
 
 👉 Available for **freelance projects & long-term collaboration**
 

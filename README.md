@@ -1,4 +1,4 @@
-# 🚀 Mage2Developer
+# 🚀 Mage2 Developer
 
 ### 💼 Magento • Shopify • Laravel • React • Hyvä • DevOps Experts
 
@@ -13,8 +13,8 @@ Our expertise spans **Magento, Shopify, Laravel, React, Hyvä themes, and DevOps
 ## 🧠 Core Expertise
 
 ### 🛒 eCommerce Development (Our Strength)
-- Magento 2 (Adobe Commerce) – Hyvä theme, Custom Modules, Checkout, API Integrations  
-- Shopify – Custom Themes, Apps, Store Optimization  
+- Magento 2 (Adobe Commerce) - Hyvä theme, Custom Modules, Checkout, API Integrations  
+- Shopify - Custom Themes, Apps, Store Optimization  
 - B2B & B2C eCommerce Solutions  
 - Multi-store & Multi-region implementations  
 
@@ -74,7 +74,7 @@ Our expertise spans **Magento, Shopify, Laravel, React, Hyvä themes, and DevOps
 
 ## 🧲 Why Clients Choose Us
 
-👨‍💻 2 senior developers (not juniors / not outsourcing)  
+👨‍💻 Senior Expert Development Team  
 🏅 Adobe Certified Experts (strong Magento authority)  
 ⚡ Fast execution + problem-solving mindset  
 🧼 Clean, scalable, maintainable code  
@@ -127,4 +127,4 @@ We can help you with:
 
 ## ⚡ Our Approach
 
-We don’t just write code —  We build **scalable eCommerce solutions that improve performance, user experience, and business growth**.
+**Let’s understand your requirements and work together to build the best solution for your project.**
